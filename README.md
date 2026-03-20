@@ -3,8 +3,9 @@
 ## 🚀 Download Project
 
 
-https://github.com/vijayvs2341/bookstore/releases/download/v1.0/Bookstore-v1.0.zip
+https://github.com/vijayvs2341/bookstore/releases/download/v1.0/bookstore.online.zip
 
+Bookstore-v1.0.zip
 A fully functional E-Commerce Web Application built using Django, HTML, CSS, JavaScript.
 
 🚀 Features

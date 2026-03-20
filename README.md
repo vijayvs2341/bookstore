@@ -1,5 +1,15 @@
 📚 Online Bookstore (Django Project)
 
+## 🚀 Download Project
+
+👉 [Click here to download ZIP](https://github.com/vijayvs2341/bookstore/archive/refs/tags/v1.0.zip)
+
+---
+
+## 📊 Changelog
+
+👉 https://github.com/vijayvs2341/bookstore/commits/v1.0
+
 A fully functional E-Commerce Web Application built using Django, HTML, CSS, JavaScript.
 
 🚀 Features
